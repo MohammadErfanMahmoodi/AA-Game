@@ -1,5 +1,5 @@
-## AA GAME
+# AA GAME
 
-# AP course practice
+## AP course practice
 
 A simple game similar to AA, implemented with java
